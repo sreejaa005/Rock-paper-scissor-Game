@@ -1,1 +1,1 @@
-This is a Rock paper scissor game. staus
+This is a Rock paper scissor game. 
